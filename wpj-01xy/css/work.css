@@ -1,0 +1,56 @@
+.work-description01 {
+    margin-bottom: 240px;
+}
+
+.work-description01 dl {
+    width: 100%;
+    position: relative;
+}
+
+.work-description01 dl dt img {
+    width: 60%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.work-description01 dl dd {
+    width: 40%;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    background-color: #fff;
+    color: #333;
+    padding: 80px;
+    z-index: 2;
+}
+
+.work-description02 {
+    margin-bottom: 240px;
+}
+
+.work-description02 dl {
+    width: 100%;
+    position: relative;
+}
+
+.work-description02 dt img {
+    width: 60%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.work-description02 dt {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.work-description02 dd {
+    width: 40%;
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    background-color: #fff;
+    color: #333;
+    padding: 80px;
+    z-index: 2;
+}
